@@ -1,6 +1,6 @@
 ## uga-mist-group2-project2
 
-#Group Members
+##Group Members
 
 Colin Meersman - cmm08294@uga.edu
 Divya Kadiyala - 
