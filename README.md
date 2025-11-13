@@ -56,7 +56,7 @@ After 2020, every borough saw a noticeable reduction in crash volume, with the s
 
 What is the leading cause of car crashes in New York?
 
-This is an important question for multiple reasons
+Why is this important?
 
 1. Improves Road Safety Policies
 Knowing what causes most crashes helps city planners and law enforcement design targeted safety measures.
