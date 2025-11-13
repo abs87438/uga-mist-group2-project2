@@ -15,6 +15,10 @@ Sanjot Bodake - ssb46835@uga.edu
 ## Objective
 Identify a data set and based on the data set and phenomenon ask 2 questions that would highlight something interesting about the data or phenomenon. 
 
+## Dataset Description
+The dataset titled “Motor Vehicle Collisions - Crashes” was obtained from the U.S. government’s open data portal at data.gov. The dataset consisted of 1,048,576 rows and 30 columns, where each row corresponds to a single crash event, and each column represents a specific attribute of that event. For example, the date and time of the crash, the borough and ZIP code, geographic coordinates (latitude and longitude), street names, and counts of injuries or fatalities where the individuals were categorized as pedestrian, cyclist, or motorist. The dataset included contributing factors for up to five vehicles (driver inattention, unsafe speed, etc.). And vehicle types (Passenger Vehicle, Taxi, Bus, etc). Data types differed by column. Borough names and contributing factors as strings, geographical data as scientific numbers, and date and time as qualitative data. Essentially, this dataset assists the NYPD in supporting citywide traffic safety in New York, and our group in answering two very important questions.  
+
+
 ## Question 1
 
 How have car crashes changed year over year in the different Boroughs?
