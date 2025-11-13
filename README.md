@@ -41,7 +41,12 @@ What is the leading cause of car crashes in New York?
 
 <img width="1253" height="1064" alt="image" src="https://github.com/user-attachments/assets/ea7d24ea-c4c0-4e30-bf3d-7c53f7012971" />
 
+This bar chart highlights the leading causes of vehicle collisions in New York. The most significant contributing factor by far is Driver Inattention or Distraction, accounting for approximately 450,000 crashes — more than double any other cause. This emphasizes how behaviors such as texting, phone use, or general lack of focus are the primary risks on New York’s roads.
 
+The next most common factors are Failure to Yield Right of Way and Following Too Closely, each contributing over 100,000 incidents, suggesting that impatience and aggressive driving behaviors play a substantial role in urban collisions. Other noted factors include Backing Unsafely, Passing or Lane Usage Improperly, and Other Vehicular causes, each responsible for tens of thousands of crashes.
+
+Overall, the data indicate that human error — particularly distraction and poor driving decisions — is the dominant cause of car crashes in New York, underscoring the need for ongoing driver awareness campaigns and enforcement of distracted driving laws.
 
 <img width="1054" height="1059" alt="image" src="https://github.com/user-attachments/assets/8ac1fce9-e9c5-4ef6-977a-e0ef919f4f2c" />
+
 
