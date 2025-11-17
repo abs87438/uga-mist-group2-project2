@@ -93,10 +93,10 @@ Lowest Point: Crashes are at their lowest between 3:00 AM and 4:00 AM (hours 3-4
 
 Morning Peak: There is a significant spike in crashes around 8:00 AM (hour 8), which aligns with the morning rush hour.
 
-# Dataset Information
-
-https://catalog.data.gov/dataset/motor-vehicle-collisions-crashes
-
 Evening Peak: The number of crashes is highest during the evening commute, peaking around 4:00 PM (hour 16) and remaining very high from 2:00 PM to 6:00 PM (hours 14-18).
 
 It is true that time is not a factor in crashes the same way that distracted driving is. However, time plays a factor regarding possible grogginess when individuals are first waking up and going to work as well as the exhaustion of the workday and a correllation of increased crashes at that time.
+
+# Dataset Information
+
+https://catalog.data.gov/dataset/motor-vehicle-collisions-crashes
