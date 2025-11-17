@@ -2,15 +2,15 @@
 
 ## Group Members
 
-Colin Meersman - cmm08294@uga.edu 
+Colin Meersman - cmm08294@uga.edu - https://github.com/colinmeersman-uga/uga-mist-group2-project2
 
-Divya Kadiyala - dk94810@uga.edu
+Divya Kadiyala - dk94810@uga.edu - https://github.com/dk94810-lang/uga-mist-group2-project2
 
-Aaron Silverman - abs87438@uga.edu
+Aaron Silverman - abs87438@uga.edu - https://github.com/abs87438/uga-mist-group2-project2
 
-Laiba Syed - ls76725@uga.edu
+Laiba Syed - ls76725@uga.edu - https://github.com/ls76725/uga-mist-group2-project2
 
-Sanjot Bodake - ssb46835@uga.edu
+Sanjot Bodake - ssb46835@uga.edu - https://github.com/sbodake1/uga-mist-group2-project2
 
 ## Objective
 Identify a data set and based on the data set and phenomenon ask 2 questions that would highlight something interesting about the data or phenomenon. 
