@@ -104,3 +104,6 @@ https://catalog.data.gov/dataset/motor-vehicle-collisions-crashes
 
 # Tablaeu Packaged Workbook
 
+git lfs install
+        git lfs track "*.psd" # Or whatever file type you want to track
+        git add .gitattributes
