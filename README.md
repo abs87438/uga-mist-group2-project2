@@ -104,6 +104,6 @@ https://catalog.data.gov/dataset/motor-vehicle-collisions-crashes
 
 # Tablaeu Packaged Workbook
 
-git lfs install
-        git lfs track "*.psd" # Or whatever file type you want to track
-        git add .gitattributes
+The File Size was too large to save here as a .twbx. Even when compressed to a .zip file, it was still too large. Attached is the visualiztion public link. To see all visualizations, please click download or edit to see all visualizations
+
+https://public.tableau.com/views/Project2Group2MIST4600/CrashesByFactor?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
