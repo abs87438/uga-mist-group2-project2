@@ -117,6 +117,12 @@ Different vehicles require different road design considerations. Understanding w
 
 ![Crash Count by Vehicle Type](CrashCountByVehicle.png)
 
+This bar chart shows how many crashes in New York City involve each type of vehicle. Sedans and SUVs/Station Wagons stand out immediately, with each category involved in close to 700,000 crashes, which is by far the highest of any group. Passenger vehicles also represent a large portion of total collisions, which makes sense given how common they are on NYC roadways.
+
+Meanwhile, vehicle types like buses, box trucks, vans, and pick-up trucks appear in far fewer crashes, largely because there are fewer of them compared to personal vehicles. Taxis fall somewhere in the middle, which aligns with their heavy concentration in areas like Manhattan but relatively lower presence in the outer boroughs.
+
+Overall, this chart highlights that the majority of crashes involve everyday personal vehicles. That means improving driver behavior, redesigning roads for safety, and focusing on common driving patterns could have the biggest impact on reducing collisions across the city.
+
 ![Crash Count Over Time by Vehicle Type](CrashCountByVehicleOverTime.png)
 
 This graph shows how the number of crashes involving different vehicle types has changed across the years in New York City. Each panel represents a specific vehicle category (Passenger Vehicles, Pick-up Trucks, Sedans, SUVs/Station Wagons, and Taxis), allowing the trends for each type to be compared separately.
