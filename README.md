@@ -125,7 +125,7 @@ Across all vehicle categories, the most noticeable pattern is the large drop in 
 
 However, the graph also suggests a likely classification or reporting shift in how NYPD categorized vehicle types starting in the mid-2010s.
 Sedans and SUVs show extremely low or near-zero values before approximately 2015, followed by a sudden jump into normal crash ranges.
-Passenger Vehicles show the opposite pattern—large counts early in the dataset, followed by an abrupt drop, implying that vehicles previously labeled “Passenger Vehicle” began being categorized more specifically as “Sedan” or “SUV/Station Wagon.”
+Passenger Vehicles show the opposite pattern with large counts early in the dataset, followed by an abrupt drop, implying that vehicles previously labeled “Passenger Vehicle” began being categorized more specifically as “Sedan” or “SUV/Station Wagon.”
 
 This strongly indicates that earlier records used broad or inconsistent vehicle classifications, while later years adopted more detailed categories. As a result, part of the variation in the graph reflects changes in labeling practices rather than actual changes in crash involvement.
 
