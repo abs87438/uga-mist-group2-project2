@@ -97,6 +97,26 @@ Evening Peak: The number of crashes is highest during the evening commute, peaki
 
 It is true that time is not a factor in crashes the same way that distracted driving is. However, time plays a factor regarding possible grogginess when individuals are first waking up and going to work as well as the exhaustion of the workday and a correllation of increased crashes at that time.
 
+## Question 3
+
+How do different types of vehicles contribute to crash frequency in New York City?
+
+Why is this important?
+
+1. Reveals Which Vehicles Pose the Greatest Risk
+Different vehicle types operate differently on city streets. Identifying which types are involved in the most crashes helps highlight where safety efforts should be focused.
+
+2. Supports Targeted Safety Policies
+If certain vehicle types-such as SUVs or delivery trucks-appear disproportionately in collisions, city agencies can respond with vehicle-specific policies. For example, stricter commercial vehicle regulations, improved loading zones, or redesigned intersections for large vehicles.
+
+3. Reflects Shifts in NYC Transportation Trends
+The rise of rideshare vehicles, increased home-delivery traffic, and growing SUV ownership all influence crash patterns. Analyzing crash data by vehicle type helps reveal how these trends are reshaping roadway risk and where future challenges may emerge.
+
+4. Helps Improve Roadway and Urban Design
+Different vehicles require different road design considerations. Understanding which types are most frequently involved in crashes can influence decisions about lane width, curbside management, protected bike lanes, and pedestrian safety infrastructure.
+
+
+
 # Dataset Information
 
 
