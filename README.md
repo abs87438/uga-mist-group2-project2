@@ -107,7 +107,7 @@ Why is this important?
 Different vehicle types operate differently on city streets. Identifying which types are involved in the most crashes helps highlight where safety efforts should be focused.
 
 2. Supports Targeted Safety Policies: 
-If certain vehicle types-such as SUVs or delivery trucks-appear disproportionately in collisions, city agencies can respond with vehicle-specific policies. For example, stricter commercial vehicle regulations, improved loading zones, or redesigned intersections for large vehicles.
+If certain vehicle types, such as SUVs or delivery trucks, appear disproportionately in collisions, city agencies can respond with vehicle-specific policies. For example, stricter commercial vehicle regulations, improved loading zones, or redesigned intersections for large vehicles.
 
 3. Reflects Shifts in NYC Transportation Trends: 
 The rise of rideshare vehicles, increased home-delivery traffic, and growing SUV ownership all influence crash patterns. 
