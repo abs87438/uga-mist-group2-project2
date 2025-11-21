@@ -119,7 +119,17 @@ Different vehicles require different road design considerations. Understanding w
 
 ![Crash Count Over Time by Vehicle Type](CrashCountByVehicleOverTime.png)
 
-This graph shows how the number of crashes involving different vehicle types has changed across the years in New York City. Each panel represents a specific vehicle category—Passenger Vehicles, Pick-up Trucks, Sedans, SUVs/Station Wagons, and Taxis—allowing the trends for each type to be compared separately.
+This graph shows how the number of crashes involving different vehicle types has changed across the years in New York City. Each panel represents a specific vehicle category (Passenger Vehicles, Pick-up Trucks, Sedans, SUVs/Station Wagons, and Taxis), allowing the trends for each type to be compared separately.
+
+Across all vehicle categories, the most noticeable pattern is the large drop in crash counts beginning in 2020, which aligns with the COVID-19 pandemic. Reduced traffic volume, remote work, and lower tourist activity resulted in far fewer crashes citywide, and this decline appears consistently across vehicle types.
+
+However, the graph also suggests a likely classification or reporting shift in how NYPD categorized vehicle types starting in the mid-2010s.
+Sedans and SUVs show extremely low or near-zero values before approximately 2015, followed by a sudden jump into normal crash ranges.
+Passenger Vehicles show the opposite pattern—large counts early in the dataset, followed by an abrupt drop, implying that vehicles previously labeled “Passenger Vehicle” began being categorized more specifically as “Sedan” or “SUV/Station Wagon.”
+
+This strongly indicates that earlier records used broad or inconsistent vehicle classifications, while later years adopted more detailed categories. As a result, part of the variation in the graph reflects changes in labeling practices rather than actual changes in crash involvement.
+
+Overall, the graph highlights both real trends (such as the citywide crash decline after 2020) and structural changes in how the data was recorded.
 
 # Dataset Information
 
