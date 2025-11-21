@@ -115,6 +115,7 @@ The rise of rideshare vehicles, increased home-delivery traffic, and growing SUV
 4. Helps Improve Roadway and Urban Design
 Different vehicles require different road design considerations. Understanding which types are most frequently involved in crashes can influence decisions about lane width, curbside management, protected bike lanes, and pedestrian safety infrastructure.
 
+![Crash Count by Vehicle Type](CrashCountByVehicle.png)
 
 
 # Dataset Information
