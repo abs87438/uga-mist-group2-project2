@@ -117,6 +117,9 @@ Different vehicles require different road design considerations. Understanding w
 
 ![Crash Count by Vehicle Type](CrashCountByVehicle.png)
 
+![Crash Count Over Time by Vehicle Type](images/CrashCountByVehicleOverTime.png)
+
+This graph shows how the number of crashes involving different vehicle types has changed across the years in New York City. Each panel represents a specific vehicle category—Passenger Vehicles, Pick-up Trucks, Sedans, SUVs/Station Wagons, and Taxis—allowing the trends for each type to be compared separately.
 
 # Dataset Information
 
